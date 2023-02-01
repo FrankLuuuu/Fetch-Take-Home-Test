@@ -1,7 +1,5 @@
 # Fetch-Take-Home-Test
 
-This program reads from a CSV file called transactions.csv in the current working directory and accepts a single argument. 
-
 ### To run:
 Open terminal or command prompt and navigate to the directory where the code is saved.
 Run the following command: python pointsItems.py [amount_of_points_to_spend]. For example, to spend 5000 points: python pointsItems.py 5000.
